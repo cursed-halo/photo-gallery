@@ -1,0 +1,45 @@
+.wrapper {
+    margin: 0.5%;
+    padding: 0.5%;
+    border: 2px solid black;
+}
+
+.header-wrapper {
+    background-color: brown;
+    border: 2px solid black;
+    text-align: center;
+    padding: 0.5%;
+    margin: 0.5%;
+}
+
+.navbar-wrapper {
+    background-color: brown;
+    border: 2px solid black;
+    text-align: center;
+    padding: 0.5%;
+    margin: 0.5%;
+}
+
+article {
+    background-color: brown;
+    border: 2px solid black;
+    text-align: center;
+    padding: 0.5%;
+    margin: 0.5%;
+}
+
+.image-wrapper {
+    background-color: brown;
+    border: 2px solid black;
+    text-align: center;
+    padding: 0.5%;
+    margin: 0.5%;
+}
+
+footer {
+    background-color: brown;
+    border: 2px solid black;
+    text-align: center;
+    padding: 0.5%;
+    margin: 0.5%;
+}
